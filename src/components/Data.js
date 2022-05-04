@@ -63,6 +63,20 @@ export const DATA = [
       "https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=626",
   },
   {
+    id: 7,
+    name: "PowerTürk Slow",
+    url: "https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio?/;stream.mp3",
+    image:
+      "https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v=4",
+  },
+  {
+    id: 7,
+    name: "Power Pop",
+    url: "https://listen.powerapp.com.tr/powerpop/mpeg/icecast.audio?/;stream.mp3",
+    image:
+      "https://cdn.powergroup.com.tr/powerapp/channels/big/powerPop.png?v=626",
+  },
+  {
     id: 8,
     name: "Radyo 45'lik",
     url: "https://stream.radyo45lik.com:4545/",
