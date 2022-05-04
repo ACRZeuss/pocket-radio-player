@@ -11,7 +11,7 @@ export const DATA = [
       name: "Best FM",
       url: "https://best.canli-radyo.biz/;stream.mp3",
       image:
-        "https://muzikonair.com/wp-content/uploads/2019/09/best-fm-yeni-logo-1024x576.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9f/Best_fm_logo.png",
     },
     {
       id: 2,
@@ -135,6 +135,6 @@ export const DATA = [
       name: "Alem FM",
       url: "https://turkmedya.radyotvonline.net/alemfmaac",
       image:
-        "https://yt3.ggpht.com/ytc/AKedOLTLli275fw6X62J2izsZ3TF8pHV2Mfkt--rhk6FvQ=s900-c-k-c0x00ffffff-no-rj",
+        "https://pbs.twimg.com/profile_images/1264907825375055872/0171EuGN_400x400.jpg",
     },
   ];

@@ -18,7 +18,7 @@ function App() {
           Pocket Radio Player
         </a>
         <div class="header-right">
-          <a id="desktop-app" href="./assets/pocket-radio-player-setup.exe" download>Masaüstü Uygulamasını İndir</a>
+          <a id="desktop-app" href="./assets/pocket-radio-player-1.0.0 Setup.exe" download>Masaüstü Uygulamasını İndir</a>
         </div>
       </div>
       <div className="App">
