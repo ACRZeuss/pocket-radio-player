@@ -63,21 +63,21 @@ export const DATA = [
       "https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=626",
   },
   {
-    id: 7,
+    id: 8,
     name: "PowerTürk Slow",
     url: "https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio?/;stream.mp3",
     image:
       "https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v=4",
   },
   {
-    id: 7,
+    id: 9,
     name: "Power Pop",
     url: "https://listen.powerapp.com.tr/powerpop/mpeg/icecast.audio?/;stream.mp3",
     image:
       "https://cdn.powergroup.com.tr/powerapp/channels/big/powerPop.png?v=626",
   },
   {
-    id: 8,
+    id: 10,
     name: "Radyo 45'lik",
     url: "https://stream.radyo45lik.com:4545/",
     image:
@@ -91,97 +91,97 @@ export const DATA = [
   //     "https://pbs.twimg.com/profile_images/1264909493118394368/t8_Hk20n_400x400.jpg",
   // },
   {
-    id: 10,
+    id: 11,
     name: "SlowTürk Radyo",
     url: "https://radyo.duhnet.tv/slowturk",
     image:
       "https://mytuner.global.ssl.fastly.net/media/tvos_radios/58aAgh9gEd.png",
   },
   {
-    id: 11,
+    id: 12,
     name: "Dream Türk",
     url: "https://radyo.duhnet.tv/dreamturk",
     image:
       "https://pbs.twimg.com/profile_images/935862506987380737/x8wLxkUx_400x400.jpg",
   },
   {
-    id: 12,
+    id: 13,
     name: "Metro FM",
     url: "http://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC",
     image:
       "https://mediacdns.karnaval.com/media/station_media/2/logos/meta_image.png",
   },
   {
-    id: 15,
+    id: 14,
     name: "Pal Akustik",
     url: "https://radyodinle1.turkhosted.com/yayin?uri=shoutcast.radyogrup.com:2030/&tkn=Z1koTZbthfUPfEq1JC5cZQ&tms=1651816825",
     image:
       "https://is5-ssl.mzstatic.com/image/thumb/Purple91/v4/70/ee/b6/70eeb6e4-9c7b-27a2-4ff1-8b47807237cf/source/512x512bb.jpg",
   },
   {
-    id: 16,
+    id: 15,
     name: "Pal Slow",
     url: "https://radyodinle1.turkhosted.com/yayin?uri=shoutcast.radyogrup.com:2020/&tkn=eUolNaNlc_F00FQhmhPe7g&tms=1651792852",
     image:
       "https://erhanpolat.tk/assets/img/pal-slow.png",
   },
   {
-    id: 17,
+    id: 16,
     name: "Pal Besk",
     url: "https://radyodinle1.turkhosted.com/yayin?uri=shoutcast.radyogrup.com:3010/&tkn=jnup0FD-jsNvpSKzeMFU3w&tms=1651793117",
     image:
       "https://www.canliradyodinle.fm/wp-content/uploads/pal-besk-dinle.jpg",
   },
   {
-    id: 13,
+    id: 17,
     name: "Virgin Radio Türkiye",
     url: "http://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_SC",
     image:
       "https://pbs.twimg.com/profile_images/1125687465266831362/9DtDhuas_400x400.png",
   },
   {
-    id: 14,
+    id: 18,
     name: "Alem FM",
     url: "https://turkmedya.radyotvonline.net/alemfmaac",
     image:
       "https://pbs.twimg.com/profile_images/1264907825375055872/0171EuGN_400x400.jpg",
   },
   {
-    id: 15,
+    id: 19,
     name: "Süper FM",
     url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC?/;stream.mp3",
     image:
       "https://mediacdns.karnaval.com/media/station_media/1/logos/android_default_logo.png?v=261118102233",
   },
   {
-    id: 16,
+    id: 20,
     name: "Süper2 FM",
     url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/;stream.mp3",
     image:
       "https://mediacdns.karnaval.com/media/station_media/16/logos/android_default_logo.png?v=011019103100",
   },
   {
-    id: 17,
+    id: 21,
     name: "Radyo D",
     url: "https://radyo.duhnet.tv/ak_dtvh_radyod?",
     image: "https://www.beingcozum.com/wp-content/uploads/2021/01/Radyo-D.png",
   },
   {
-    id: 18,
+    id: 22,
     name: "Kiss FM",
     url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_FM_SC?/;stream.mp3",
     image:
       "https://mediacdns.karnaval.com/media/station_media/224/logos/android_default_logo.png?v=110620123614",
   },
   {
-    id: 19,
+    id: 23,
     name: "Radio Mydonose",
     url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SC010_SO1_SC?/;stream.mp3",
     image:
       "https://mediacdns.karnaval.com/media/artist_media/5386/biography_600x600/photo_5386_0.jpg?v=110914102328",
   },
   {
-    id: 20,
+    id: 24,
     name: "Mydonose Türk",
     url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SC016_SO1_SC?/;stream.mp3",
     image:
