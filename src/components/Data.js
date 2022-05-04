@@ -97,34 +97,27 @@ export const DATA = [
     image:
       "https://mediacdns.karnaval.com/media/station_media/2/logos/meta_image.png",
   },
-  // {
-  //   id: 14,
-  //   name: "Pal Station",
-  //   url: "http://shoutcast.radyogrup.com:1020/;",
-  //   image:
-  //     "https://image.winudf.com/v2/image1/Y29tLnBhbF9zdGF0aW9uLnJhZGlvX3NjcmVlbl81XzE1NDkzNDc5MThfMDQw/screen-5.jpg?fakeurl=1&type=.webp",
-  // },
-  // {
-  //   id: 15,
-  //   name: "Pal Akustik",
-  //   url: "http://shoutcast.radyogrup.com:2030/;",
-  //   image:
-  //     "https://is5-ssl.mzstatic.com/image/thumb/Purple91/v4/70/ee/b6/70eeb6e4-9c7b-27a2-4ff1-8b47807237cf/source/512x512bb.jpg",
-  // },
-  // {
-  //   id: 16,
-  //   name: "Pal Slow",
-  //   url: "http://shoutcast.radyogrup.com:2020/;",
-  //   image:
-  //     "https://play-lh.googleusercontent.com/lYPNMkH0s78_H6Vf7l2X93L4AZ2BS0TwfaalzM1DmJxCOaF_gAk69giWcearVepw8dU",
-  // },
-  // {
-  //   id: 17,
-  //   name: "Pal Nostalji",
-  //   url: "http://shoutcast.radyogrup.com:1010/;",
-  //   image:
-  //     "https://image.winudf.com/v2/image1/Y29tLnBhbG5vc3RhbGppLnJhZGlvX3NjcmVlbl8wXzE1NDg2MDc4NTlfMDA3/screen-0.jpg?h=500&fakeurl=1&type=.jpg",
-  // },
+  {
+    id: 15,
+    name: "Pal Akustik",
+    url: "https://radyodinle1.turkhosted.com/yayin?uri=shoutcast.radyogrup.com:2030/&tkn=Z1koTZbthfUPfEq1JC5cZQ&tms=1651816825",
+    image:
+      "https://is5-ssl.mzstatic.com/image/thumb/Purple91/v4/70/ee/b6/70eeb6e4-9c7b-27a2-4ff1-8b47807237cf/source/512x512bb.jpg",
+  },
+  {
+    id: 16,
+    name: "Pal Slow",
+    url: "https://radyodinle1.turkhosted.com/yayin?uri=shoutcast.radyogrup.com:2020/&tkn=eUolNaNlc_F00FQhmhPe7g&tms=1651792852",
+    image:
+      "https://erhanpolat.tk/assets/img/pal-slow.png",
+  },
+  {
+    id: 17,
+    name: "Pal Besk",
+    url: "https://radyodinle1.turkhosted.com/yayin?uri=shoutcast.radyogrup.com:3010/&tkn=jnup0FD-jsNvpSKzeMFU3w&tms=1651793117",
+    image:
+      "https://www.canliradyodinle.fm/wp-content/uploads/pal-besk-dinle.jpg",
+  },
   {
     id: 13,
     name: "Virgin Radio Türkiye",
@@ -157,8 +150,7 @@ export const DATA = [
     id: 17,
     name: "Radyo D",
     url: "https://radyo.duhnet.tv/ak_dtvh_radyod?",
-    image:
-      "https://www.beingcozum.com/wp-content/uploads/2021/01/Radyo-D.png",
+    image: "https://www.beingcozum.com/wp-content/uploads/2021/01/Radyo-D.png",
   },
   {
     id: 18,
