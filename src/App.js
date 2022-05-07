@@ -25,7 +25,7 @@ function App() {
         {DATA.map((item) => {
           return (
             <a onClick={() => setUrl(item.url)} className="radio-station">
-              <img src={item.image} />
+              <img src={item.image} alt={item.name} />
             </a>
           );
         })}
